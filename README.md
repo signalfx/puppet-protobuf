@@ -1,8 +1,3 @@
-```
-script/cibuild
-.bundle/binstubs/rspec-puppet-init
-```
-
 # Google Protocol Buffers Module for Boxen
 
 Protocol buffers are a flexible, efficient, automated mechanism for serializing structured data – think XML, but smaller, faster, and simpler.
