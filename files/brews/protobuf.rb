@@ -6,7 +6,7 @@ require 'formula'
 class Protobuf < Formula
   homepage 'http://code.google.com/p/protobuf/'
   url 'https://github.com/google/protobuf/releases/download/v2.5.0/protobuf-2.5.0.tar.bz2'
-  sha1 '62c10dcdac4b69cc8c6bb19f73db40c264cb2726'
+  sha256 '13bfc5ae543cf3aa180ac2485c0bc89495e3ae711fc6fab4f8ffe90dfb4bb677'
 
   version '2.5.0-boxen1'
 
