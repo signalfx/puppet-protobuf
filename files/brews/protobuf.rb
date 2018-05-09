@@ -28,7 +28,7 @@ class Protobuf < Formula
     doc.install %w( editors examples )
   end
 
-  def caveats; <<-EOS.undent
+  def caveats; <<-EOS
     Editor support and examples have been installed to:
       #{doc}
     EOS
