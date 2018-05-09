@@ -12,10 +12,6 @@ class Protobuf < Formula
 
   option :universal
 
-  fails_with :llvm do
-    build 2334
-  end
-
   def install
     # Don't build in debug mode. See:
     # https://github.com/mxcl/homebrew/issues/9279
